@@ -20,7 +20,7 @@
 |название|name|статус|
 |:-|:-|:-|
 |Конструктивная биология|Creating Biology|In progress: 35%|
-|[Математическая морфология в примерах из медицины и биологии](mathmorphology_book)|MathMorphology practical guide|In progress: 90%|
+|[Математическая морфология в примерах из медицины и биологии](../mathmorphology_book)|MathMorphology practical guide|In progress: 90%|
 |Экспериментальная экономика|Digital Economy|Planned|
 
 ## избранные работы:
